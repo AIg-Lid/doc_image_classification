@@ -1,0 +1,5 @@
+bgDot_image
+doc_image
+lineTable_image
+stamp_image
+wlessTable_image
